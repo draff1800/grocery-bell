@@ -1,5 +1,5 @@
 # Grocery Bell 
-## Mobile App
+## Mobile App (Android)
 ### Name: 
 	Grocery Bell
 ### Description: 
